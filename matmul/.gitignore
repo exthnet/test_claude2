@@ -1,0 +1,10 @@
+# compiled binaries
+matmul
+matmul_acc
+matmul_acc2
+matmul_acc3
+matmul_cuda
+
+# SLURM job outputs
+*.out
+*.err
